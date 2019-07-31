@@ -10,23 +10,6 @@
     border-radius: 10px;
   }
 }
-.btn-generator {
-  font-size: 1.8rem;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border-radius: 8px;
-  background-color: #17A2B8;
-  width: 80%;
-  color: white;
-  text-align: center;
-  font-weight: 580;
-}
-@media (max-width: 500px) {
-  .btn-generator {
-    width: 90%;
-    text-align: center;
-  }
-}
 .animation {
   animation-name: hover;
   animation-duration: 2s;
